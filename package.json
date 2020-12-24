@@ -1,10 +1,12 @@
 {
-  "name": "details",
+  "name": "jnk",
   "version": "details",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
     "bootstrap": "^4.5.3",
     "jquery": "^3.5.1"
-  }
+  },
+  "repository": "https://github.com/Nicole-Yancy/tableau-wdc-tutorial-part-1",
+  "author": "Nicole-Yancy <73856908+Nicole-Yancy@users.noreply.github.com>"
 }
