@@ -5,6 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "bootstrap": "^4.5.3",
+    "http-server": "^0.12.3",
     "jquery": "^3.5.1"
   },
   "repository": "https://github.com/Nicole-Yancy/tableau-wdc-tutorial-part-1",
